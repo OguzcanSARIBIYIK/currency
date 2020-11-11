@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Curreny',
       theme: ThemeData(
-        accentColor: Colors.black,
+        accentColor: Colors.grey[300],
         primarySwatch: Colors.grey,
         textTheme: TextTheme(
           headline1: TextStyle(
